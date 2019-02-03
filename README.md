@@ -1,0 +1,2 @@
+# YouGame-transaction
+用于YouGameProject的资金记录，并提供api查询接口
