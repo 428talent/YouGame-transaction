@@ -1,0 +1,24 @@
+{
+  "name": "yougame-transaction",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/amqplib": "^0.5.9",
+    "@types/mongoose": "^5.3.12",
+    "@types/mongoose-paginate": "^5.0.6",
+    "@types/restify": "^7.2.7",
+    "amqplib": "^0.5.3",
+    "mongoose": "^5.4.9",
+    "mongoose-paginate": "^5.0.3",
+    "restify": "^7.7.0",
+    "tslint-config-airbnb": "^5.11.1"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.1"
+  }
+}
